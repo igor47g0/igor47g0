@@ -13,7 +13,8 @@
   <!-- IMAGEM DARK DA PASTA DOWNLOADS (JOSUÉ 1:9 / DRAGON BALL) -->
   <br/>
   <a href="https://github.com/igor47g0">
-    <img src="https://i.pinimg.com/1200x/a5/eb/f5/a5ebf50512dd6a2a1b859af0996c7fea.jpg" width="340" alt="Josué 1:9 - Seja Forte e Corajoso" style="border-radius: 1000px; border: 3px solid #30363d;" />
+    <img src="<img width="2150" height="1200" alt="a5ebf50512dd6a2a1b859af0996c7fea" src="https://github.com/user-attachments/assets/4ede9351-d0d6-4cc6-aa18-ebc2e3f78feb" />
+" width="340" alt="Josué 1:9 - Seja Forte e Corajoso" style="border-radius: 1000px; border: 3px solid #30363d;" />
   </a>
 
   <p align="center">

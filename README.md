@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 ```json
 {

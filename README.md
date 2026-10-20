@@ -13,7 +13,8 @@
   <!-- IMAGEM DARK DA PASTA DOWNLOADS (JOSUÉ 1:9 / DRAGON BALL) -->
   <br/>
   <a href="https://github.com/igor47g0">
-    <img src="imagem" width="340" alt="imagem" style="border-radius: 1000px; border: 3px solid #30363d;" />
+    <img src="<img width="851" height="479" alt="image" src="https://github.com/user-attachments/assets/828cc716-d9b2-4770-9859-70d30934ddd3" />
+" width="340" alt="imagem" style="border-radius: 1000px; border: 3px solid #30363d;" />
   </a>
 
   <p align="center">

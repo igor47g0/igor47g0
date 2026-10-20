@@ -101,7 +101,7 @@
 
 <div align="center">
   <!-- CONTADOR DE VISITAS COM TEMA DARK -->
-  <img src="https://komarev.com/ghpvc/?username=igor47g0&label=Visualizações%20no%20Perfil&color=00e5ff&style=flat-square&base=0d1117" alt="Contador de Visitas" />
+  <img src="https://i.pinimg.com/736x/56/c5/e5/56c5e53dc2c8713470c6f1a95145cb27.jpg" alt="Contador de Visitas" />
 </div>
 
 <br/>
